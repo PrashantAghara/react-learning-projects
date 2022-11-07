@@ -7,5 +7,5 @@ The Application is about getting weather of the City.
 Application is installable on from chrome tab.
 
 Screenshots for Application (PWA) :-
-![Home Screen](public\images\pwa1.PNG?raw=true)
-![Weather Search](public\images\pwa2.PNG?raw=true)
+![Home Screen](https://github.com/PrashantAghara/react-learning-projects/blob/master/react-pwa-app/public/images/pwa1.PNG)
+![Weather Search](https://github.com/PrashantAghara/react-learning-projects/blob/master/react-pwa-app/public/images/pwa2.PNG)
