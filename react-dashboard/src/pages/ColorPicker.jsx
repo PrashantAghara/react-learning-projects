@@ -18,7 +18,7 @@ const ColorPicker = () => {
             <p className="text-2xl font-semibold mt-2 mb-4">Inline Pallate</p>
             <ColorPickerComponent
               id="inline pallate"
-              mode="Pallate"
+              mode="Pallete"
               modeSwitcher={false}
               inline
               showButtons={false}
